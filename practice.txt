@@ -1,2 +1,4 @@
 Hello world!
 editing in repository
+// practice merge conflicts
+editing in online repository
