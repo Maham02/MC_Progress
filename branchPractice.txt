@@ -1,0 +1,5 @@
+Hello world!
+editing in repository
+// practice merge conflicts
+editing in local repository
+here I'm to practice branch
